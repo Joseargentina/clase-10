@@ -40,7 +40,7 @@
     margin: 20px;
     border: 2px solid #000;
     padding: 13px;
-    background-image: url('https://images.pexels.com/photos/14198757/pexels-photo-14198757.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-image: url('../assets/img/blog_1.avif');
     background-repeat: no-repeat;
     background-size: cover ;
     background-position: center 60%;
